@@ -1,0 +1,24 @@
+h1 {
+  color: #ED2B05;
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 16px;
+}
+
+li {
+  font-style: italic;
+}
+
+.fruits{
+  font-color: green;
+  font-weight: bold;
+}
+
+#my-favorite{
+  font-weight: bolder;
+  font-size: 18px;
+  background-color:#B0CDF7;
+}
